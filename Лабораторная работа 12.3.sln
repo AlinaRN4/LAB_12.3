@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Лабораторная работа 12.3", "Лабораторная работа 12.3\Лабораторная работа 12.3.csproj", "{8A981A28-4AF8-47FB-8FCA-1E57C6189482}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyTreeTest", "MyTreeTest\MyTreeTest.csproj", "{7D9B5794-DA3D-46E8-AA9E-7585713FABA2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A981A28-4AF8-47FB-8FCA-1E57C6189482}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A981A28-4AF8-47FB-8FCA-1E57C6189482}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A981A28-4AF8-47FB-8FCA-1E57C6189482}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A981A28-4AF8-47FB-8FCA-1E57C6189482}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D9B5794-DA3D-46E8-AA9E-7585713FABA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D9B5794-DA3D-46E8-AA9E-7585713FABA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D9B5794-DA3D-46E8-AA9E-7585713FABA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D9B5794-DA3D-46E8-AA9E-7585713FABA2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC47F129-8532-43A1-A0A9-FDD606A6D9CD}
+	EndGlobalSection
+EndGlobal
